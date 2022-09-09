@@ -14,12 +14,13 @@ Hello, my name is Christopher brown and I have a very deep passion for software 
 - ⚡ What I like to do: **I like so much exploring new things about coding and try to pick up as much knowledge as I can**
 
 <br>
-<div align="center">
+<div align="left">
 <h3><b>😄 Connect With Me</b></h3>
 </div>
 <p align="left">
 <a href="https://codepen.io/chris13-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rock12231" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/christopher-brown-477a96199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
+<br>
 
 </p>
 
