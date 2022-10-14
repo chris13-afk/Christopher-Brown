@@ -5,9 +5,9 @@ Hello, my name is Christopher brown and I have a very deep passion for software 
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 🔭 I’m currently working on **chat box API**
+- 🔭 I’m currently working on **PHP & SQL**
 
-- 👯 I’m looking to collaborate on **front-end, back-end projects**
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **chriscayemitte8113@gmail.com**
 
